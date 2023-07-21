@@ -8,40 +8,37 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
-    <a href="https://https://rohitsingh-18.github.io/Button-Components/">
+  
+  <span> | </span>
+    <a href="https://rohitsingh-18.github.io/Button-Components/">
       Solution
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/paths/front-end-developer">
       Challenge
     </a>
+    <span> | </span>
+    <a href="https://www.linkedin.com/in/rohitsingh18/">
+      LinkedIn
+    </a>
+    <span> | </span>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+<!--- TABLE OF CONTENTS --->
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Built With](#built-with)
 - [Features](#features)
-- [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](./demo-1.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
@@ -61,4 +58,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [https://rohitsingh-18.github.io/CapeStone-Project-2/](https://rohitsingh-18.github.io/CapeStone-Project-2/)
 - GitHub [https://github.com/RohitSingh-18/](https://github.com/RohitSingh-18/)
+- LinkedIn[https://www.linkedin.com/in/rohitsingh18/](https://www.linkedin.com/in/rohitsingh18/)
 
